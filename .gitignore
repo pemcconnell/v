@@ -1,9 +1,8 @@
 *
 
 !.gitignore
-!.vimrc
-!.vim/*
 !.dotfiles/*
-.vim/*.backup
-.vim/*history
+!vim/*
+vim/*.backup
+vim/*history
 !*/
